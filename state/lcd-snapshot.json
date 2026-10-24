@@ -1,26 +1,9 @@
 {
   "version": 3,
-  "generated_at": "2026-10-24T05:36:00.876Z",
+  "generated_at": "2026-10-24T05:37:12.508Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
-    {
-      "key": "6adc32d0fb84edd89ae8c0cd",
-      "id": "6adc32d0fb84edd89ae8c0cd",
-      "level_id": 9700312,
-      "title": "Crimson Clutter",
-      "creator": "RedUniverse",
-      "difficulty": "Insane Demon",
-      "description": "Dark Red Nine Circles level. pretty fun but bad mirror portals",
-      "image_url": "",
-      "youtube_urls": [
-        "https://www.youtube.com/watch?v=CV9SBp8wAQ4"
-      ],
-      "beaten_by": [
-        "Smeegan"
-      ],
-      "rank": 1
-    },
     {
       "key": "6acc28925e84675138b528a0",
       "id": "6acc28925e84675138b528a0",
@@ -36,6 +19,23 @@
       "beaten_by": [
         "SubmonsterYOY",
         "JoZay"
+      ],
+      "rank": 1
+    },
+    {
+      "key": "6adc32d0fb84edd89ae8c0cd",
+      "id": "6adc32d0fb84edd89ae8c0cd",
+      "level_id": 9700312,
+      "title": "Crimson Clutter",
+      "creator": "RedUniverse",
+      "difficulty": "Insane Demon",
+      "description": "Dark Red Nine Circles level. pretty fun but bad mirror portals",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=CV9SBp8wAQ4"
+      ],
+      "beaten_by": [
+        "Smeegan"
       ],
       "rank": 2
     },
