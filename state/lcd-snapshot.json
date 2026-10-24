@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-24T05:37:12.508Z",
+  "generated_at": "2026-10-24T05:38:14.437Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -40,6 +40,23 @@
       "rank": 2
     },
     {
+      "key": "6acc28927b38ad426f4a7ff4",
+      "id": "6acc28927b38ad426f4a7ff4",
+      "level_id": 2241592,
+      "title": "Necropolis",
+      "creator": "Neptune",
+      "difficulty": "Insane Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/bVUVS5dG7qQ?si=DTxjga0RUMqX_baS"
+      ],
+      "beaten_by": [
+        "ErickXd"
+      ],
+      "rank": 3
+    },
+    {
       "key": "6acc2891adc443fe990742e6",
       "id": "6acc2891adc443fe990742e6",
       "level_id": 14145098,
@@ -54,23 +71,6 @@
       "beaten_by": [
         "xnoo",
         "SubmonsterYOY"
-      ],
-      "rank": 3
-    },
-    {
-      "key": "6acc28927b38ad426f4a7ff4",
-      "id": "6acc28927b38ad426f4a7ff4",
-      "level_id": 2241592,
-      "title": "Necropolis",
-      "creator": "Neptune",
-      "difficulty": "Insane Demon",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/bVUVS5dG7qQ?si=DTxjga0RUMqX_baS"
-      ],
-      "beaten_by": [
-        "ErickXd"
       ],
       "rank": 4
     },
