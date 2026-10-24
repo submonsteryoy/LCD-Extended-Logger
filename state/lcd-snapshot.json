@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-24T06:16:16.305Z",
+  "generated_at": "2026-10-24T06:24:13.359Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -255,21 +255,19 @@
       "rank": 14
     },
     {
-      "key": "6adc4d043e3ccf8f3118a293",
-      "id": "6adc4d043e3ccf8f3118a293",
-      "level_id": 0,
-      "title": "Forest Temple",
-      "creator": "Michigun",
-      "difficulty": "Hard Demon",
-      "description": "Pretty cool",
+      "key": "6adc4edb81e06a906660a9a2",
+      "id": "6adc4edb81e06a906660a9a2",
+      "level_id": 65731116,
+      "title": "64",
+      "creator": "Sillow",
+      "difficulty": "Insane Demon",
+      "description": "",
       "image_url": "",
       "youtube_urls": [
-        "https://youtu.be/ZKT1_Mq7hD0?si=gp8M9ys2pRzN7nYI"
+        "https://youtu.be/X-PQT8o9-lU?is=FaYsWkgtAPRw8MQO"
       ],
       "beaten_by": [
-        "xnoo",
-        "SubMonsterYOY",
-        "RG"
+        "xnoo"
       ],
       "rank": 15
     }
