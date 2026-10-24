@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-24T08:21:13.452Z",
+  "generated_at": "2026-10-24T09:18:14.297Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -120,7 +120,8 @@
         "https://youtu.be/zIbardyGrRk?is=1XoVK_3H3FemImp0"
       ],
       "beaten_by": [
-        "luhPopoff (Cheerful Desendant)"
+        "luhPopoff (Cheerful Desendant)",
+        "xnoo"
       ],
       "rank": 7
     },
