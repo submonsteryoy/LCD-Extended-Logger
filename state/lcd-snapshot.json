@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-24T06:24:13.359Z",
+  "generated_at": "2026-10-24T08:12:16.032Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -109,6 +109,23 @@
       "rank": 6
     },
     {
+      "key": "6adc685431ba7a85271bf2da",
+      "id": "6adc685431ba7a85271bf2da",
+      "level_id": 126213470,
+      "title": "Nilscapes",
+      "creator": "L413",
+      "difficulty": "Insane Demom",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/zIbardyGrRk?is=1XoVK_3H3FemImp0"
+      ],
+      "beaten_by": [
+        "luhPopoff (Cheerful Desendant)"
+      ],
+      "rank": 7
+    },
+    {
       "key": "6acc2894c28738277b38073c",
       "id": "6acc2894c28738277b38073c",
       "level_id": 60619762,
@@ -126,7 +143,7 @@
         "TheCone",
         "xnoo"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "key": "6acc2894537b893094331fac",
@@ -143,7 +160,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "key": "6acc289511408a2f77087169",
@@ -161,7 +178,7 @@
         "TheCone",
         "Smeegan"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "key": "6acc2897edb55e41a0581c05",
@@ -180,7 +197,7 @@
         "ErickXd",
         "Smeegan"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "key": "6acc2897e660dc59e42019c6",
@@ -198,7 +215,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "key": "6acc2898babb2f0e067cacd4",
@@ -216,7 +233,7 @@
         "TheCone",
         "xnoo"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "key": "6acae811be151f426ffffe53",
@@ -235,7 +252,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "key": "6acc2898a87f38f73db9e6ee",
@@ -248,23 +265,6 @@
       "image_url": "",
       "youtube_urls": [
         "https://youtu.be/I5dkVwV5D9c?is=OcbXNAQb6f1OZd8p"
-      ],
-      "beaten_by": [
-        "xnoo"
-      ],
-      "rank": 14
-    },
-    {
-      "key": "6adc4edb81e06a906660a9a2",
-      "id": "6adc4edb81e06a906660a9a2",
-      "level_id": 65731116,
-      "title": "64",
-      "creator": "Sillow",
-      "difficulty": "Insane Demon",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/X-PQT8o9-lU?is=FaYsWkgtAPRw8MQO"
       ],
       "beaten_by": [
         "xnoo"
