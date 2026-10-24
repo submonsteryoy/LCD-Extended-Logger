@@ -1,0 +1,277 @@
+{
+  "version": 3,
+  "generated_at": "2026-10-24T05:36:00.876Z",
+  "source": "https://api-lcd.vercel.app/api/extended",
+  "list": "Extended",
+  "levels": [
+    {
+      "key": "6adc32d0fb84edd89ae8c0cd",
+      "id": "6adc32d0fb84edd89ae8c0cd",
+      "level_id": 9700312,
+      "title": "Crimson Clutter",
+      "creator": "RedUniverse",
+      "difficulty": "Insane Demon",
+      "description": "Dark Red Nine Circles level. pretty fun but bad mirror portals",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=CV9SBp8wAQ4"
+      ],
+      "beaten_by": [
+        "Smeegan"
+      ],
+      "rank": 1
+    },
+    {
+      "key": "6acc28925e84675138b528a0",
+      "id": "6acc28925e84675138b528a0",
+      "level_id": 73725400,
+      "title": "Crazy III",
+      "creator": "DavJT",
+      "difficulty": "Insane Demon",
+      "description": "\"That's crazy. You know what's crazy too? You even beat Crazy III.\" - Sailent",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=1ynspvn8KSs"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY",
+        "JoZay"
+      ],
+      "rank": 2
+    },
+    {
+      "key": "6acc2891adc443fe990742e6",
+      "id": "6acc2891adc443fe990742e6",
+      "level_id": 14145098,
+      "title": "Invisible Deadlocked",
+      "creator": "KrmaL",
+      "difficulty": "Insane Demon",
+      "description": "hard",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/rjPllZX4FHI?is=FezLBqDkKcb1-Pav"
+      ],
+      "beaten_by": [
+        "xnoo",
+        "SubmonsterYOY"
+      ],
+      "rank": 3
+    },
+    {
+      "key": "6acc28927b38ad426f4a7ff4",
+      "id": "6acc28927b38ad426f4a7ff4",
+      "level_id": 2241592,
+      "title": "Necropolis",
+      "creator": "Neptune",
+      "difficulty": "Insane Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/bVUVS5dG7qQ?si=DTxjga0RUMqX_baS"
+      ],
+      "beaten_by": [
+        "ErickXd"
+      ],
+      "rank": 4
+    },
+    {
+      "key": "6acc28935c9c0a5a49dd3db1",
+      "id": "6acc28935c9c0a5a49dd3db1",
+      "level_id": 59626284,
+      "title": "Future Funk II",
+      "creator": "JonathanGD",
+      "difficulty": "Insane Demon",
+      "description": "the peakest level and song",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/r1I6cEwi4Us?si=UDo2he6MgB0HVzmN"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY"
+      ],
+      "rank": 5
+    },
+    {
+      "key": "6acc28931ee1f6dbdc8b7f57",
+      "id": "6acc28931ee1f6dbdc8b7f57",
+      "level_id": 65984971,
+      "title": "I stole this",
+      "creator": "Shulkern",
+      "difficulty": "Insane Demon",
+      "description": "consistant",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/P-uUDsNKF1g?is=SWG92GA4WSKAP-hj"
+      ],
+      "beaten_by": [
+        "xnoo"
+      ],
+      "rank": 6
+    },
+    {
+      "key": "6acc2894c28738277b38073c",
+      "id": "6acc2894c28738277b38073c",
+      "level_id": 60619762,
+      "title": "Denouement",
+      "creator": "Synactive GD",
+      "difficulty": "Insane Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/ziHvsAriE3s?is=blAMh-0TRnwNOVMX"
+      ],
+      "beaten_by": [
+        "Melonnnnnnnn",
+        "randomperson435",
+        "TheCone",
+        "xnoo"
+      ],
+      "rank": 7
+    },
+    {
+      "key": "6acc2894537b893094331fac",
+      "id": "6acc2894537b893094331fac",
+      "level_id": 86565813,
+      "title": "Fishbass",
+      "creator": "Fishbass",
+      "difficulty": "Insane Demon",
+      "description": "Nine cricles",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/MYmLcPYU9Uk?is=a44mP8KTNmqT2UpZ"
+      ],
+      "beaten_by": [
+        "TheCone"
+      ],
+      "rank": 8
+    },
+    {
+      "key": "6acc289511408a2f77087169",
+      "id": "6acc289511408a2f77087169",
+      "level_id": 7054561,
+      "title": "Poltergeist",
+      "creator": "Andromeda",
+      "difficulty": "Insane Demon",
+      "description": "Sigma boi",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/63sr55FXqsI?is=K-LcoByaExUxMrIe"
+      ],
+      "beaten_by": [
+        "TheCone",
+        "Smeegan"
+      ],
+      "rank": 9
+    },
+    {
+      "key": "6acc2897edb55e41a0581c05",
+      "id": "6acc2897edb55e41a0581c05",
+      "level_id": 112133114,
+      "title": "Sonic Wave Universe",
+      "creator": "",
+      "difficulty": "Insane Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/iIvrn_diOcA?si=cwAW-DgRzJE8ovpU"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY",
+        "ErickXd",
+        "Smeegan"
+      ],
+      "rank": 10
+    },
+    {
+      "key": "6acc2897e660dc59e42019c6",
+      "id": "6acc2897e660dc59e42019c6",
+      "level_id": 5232805,
+      "title": "Death Note",
+      "creator": "",
+      "difficulty": "Insane Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/asQrt9B3aMo?si=SrGSG3lxFQnb9IIC"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY",
+        "xnoo"
+      ],
+      "rank": 11
+    },
+    {
+      "key": "6acc2898babb2f0e067cacd4",
+      "id": "6acc2898babb2f0e067cacd4",
+      "level_id": 4957691,
+      "title": "Windy Landscape",
+      "creator": "Woogi1411",
+      "difficulty": "Insane Demon",
+      "description": "This landscape is pretty windy",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/hTX0Ch5bgMw?is=ePYQuVUdSAfznRzu"
+      ],
+      "beaten_by": [
+        "TheCone",
+        "xnoo"
+      ],
+      "rank": 12
+    },
+    {
+      "key": "6acae811be151f426ffffe53",
+      "id": "6acae811be151f426ffffe53",
+      "level_id": 47620786,
+      "title": "Crazy II",
+      "creator": "DavJT",
+      "difficulty": "Insane Demon",
+      "description": "This level is the second level of the Crazy series.",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/CVOsW2cHILc"
+      ],
+      "beaten_by": [
+        "Aarun1217",
+        "SubmonsterYOY",
+        "xnoo"
+      ],
+      "rank": 13
+    },
+    {
+      "key": "6acc2898a87f38f73db9e6ee",
+      "id": "6acc2898a87f38f73db9e6ee",
+      "level_id": 89743050,
+      "title": "Inane Demon",
+      "creator": "KiwiPenguin",
+      "difficulty": "Insane Demon",
+      "description": "consistant",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/I5dkVwV5D9c?is=OcbXNAQb6f1OZd8p"
+      ],
+      "beaten_by": [
+        "xnoo"
+      ],
+      "rank": 14
+    },
+    {
+      "key": "6a99eeea8fad994618fc1a4f",
+      "id": "6a99eeea8fad994618fc1a4f",
+      "level_id": 0,
+      "title": "Forest Temple",
+      "creator": "Michigun",
+      "difficulty": "Hard Demon",
+      "description": "Pretty cool",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/ZKT1_Mq7hD0?si=gp8M9ys2pRzN7nYI"
+      ],
+      "beaten_by": [
+        "xnoo",
+        "SubMonsterYOY",
+        "RG"
+      ],
+      "rank": 15
+    }
+  ]
+}
