@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-24T08:12:16.032Z",
+  "generated_at": "2026-10-24T08:13:11.573Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -231,7 +231,8 @@
       ],
       "beaten_by": [
         "TheCone",
-        "xnoo"
+        "xnoo",
+        "luhPopoff (Cheerful Desendant)"
       ],
       "rank": 13
     },
