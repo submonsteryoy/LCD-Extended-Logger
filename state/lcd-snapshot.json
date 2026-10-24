@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-24T08:13:11.573Z",
+  "generated_at": "2026-10-24T08:21:13.452Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -69,8 +69,7 @@
         "https://youtu.be/rjPllZX4FHI?is=FezLBqDkKcb1-Pav"
       ],
       "beaten_by": [
-        "xnoo",
-        "SubmonsterYOY"
+        "xnoo"
       ],
       "rank": 4
     },
