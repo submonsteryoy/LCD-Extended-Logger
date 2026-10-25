@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-24T09:18:14.297Z",
+  "generated_at": "2026-10-25T02:39:12.484Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -91,6 +91,21 @@
       "rank": 5
     },
     {
+      "key": "6add6bc32eb523d13e8dff1f",
+      "id": "6add6bc32eb523d13e8dff1f",
+      "level_id": 82824219,
+      "title": "MikuMikuMikuMiku",
+      "creator": "OddMod",
+      "difficulty": "Insane Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/n5QDzBiZ0eE?is=PCj36aWbdQiQue4P"
+      ],
+      "beaten_by": [],
+      "rank": 6
+    },
+    {
       "key": "6acc28931ee1f6dbdc8b7f57",
       "id": "6acc28931ee1f6dbdc8b7f57",
       "level_id": 65984971,
@@ -105,7 +120,7 @@
       "beaten_by": [
         "xnoo"
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "key": "6adc685431ba7a85271bf2da",
@@ -123,7 +138,7 @@
         "luhPopoff (Cheerful Desendant)",
         "xnoo"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "key": "6acc2894c28738277b38073c",
@@ -143,7 +158,7 @@
         "TheCone",
         "xnoo"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "key": "6acc2894537b893094331fac",
@@ -160,7 +175,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "key": "6acc289511408a2f77087169",
@@ -178,7 +193,7 @@
         "TheCone",
         "Smeegan"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "key": "6acc2897edb55e41a0581c05",
@@ -197,7 +212,7 @@
         "ErickXd",
         "Smeegan"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "key": "6acc2897e660dc59e42019c6",
@@ -215,7 +230,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "key": "6acc2898babb2f0e067cacd4",
@@ -234,7 +249,7 @@
         "xnoo",
         "luhPopoff (Cheerful Desendant)"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "key": "6acae811be151f426ffffe53",
@@ -251,23 +266,6 @@
       "beaten_by": [
         "Aarun1217",
         "SubmonsterYOY",
-        "xnoo"
-      ],
-      "rank": 14
-    },
-    {
-      "key": "6acc2898a87f38f73db9e6ee",
-      "id": "6acc2898a87f38f73db9e6ee",
-      "level_id": 89743050,
-      "title": "Inane Demon",
-      "creator": "KiwiPenguin",
-      "difficulty": "Insane Demon",
-      "description": "consistant",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/I5dkVwV5D9c?is=OcbXNAQb6f1OZd8p"
-      ],
-      "beaten_by": [
         "xnoo"
       ],
       "rank": 15
