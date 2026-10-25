@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-25T02:39:12.484Z",
+  "generated_at": "2026-10-25T03:16:13.623Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -191,7 +191,8 @@
       ],
       "beaten_by": [
         "TheCone",
-        "Smeegan"
+        "Smeegan",
+        "xnoo"
       ],
       "rank": 11
     },
