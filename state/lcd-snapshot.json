@@ -1,9 +1,26 @@
 {
   "version": 3,
-  "generated_at": "2026-10-26T00:00:22.066Z",
+  "generated_at": "2026-10-27T18:22:15.817Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
+    {
+      "key": "6ae0ebc5ce39ac4acb34724f",
+      "id": "6ae0ebc5ce39ac4acb34724f",
+      "level_id": 62809982,
+      "title": "Thanatophobia",
+      "creator": "ARtu",
+      "difficulty": "Insane Demon",
+      "description": "10/10",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/-PClYRMzE6c?si=Iewv7qIHEq-9jKPO"
+      ],
+      "beaten_by": [
+        "JoZay"
+      ],
+      "rank": 1
+    },
     {
       "key": "6acc28925e84675138b528a0",
       "id": "6acc28925e84675138b528a0",
@@ -20,7 +37,7 @@
         "SubmonsterYOY",
         "JoZay"
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "key": "6adc32d0fb84edd89ae8c0cd",
@@ -37,7 +54,7 @@
       "beaten_by": [
         "Smeegan"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "key": "6acc28927b38ad426f4a7ff4",
@@ -54,7 +71,7 @@
       "beaten_by": [
         "ErickXd"
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "key": "6acc2891adc443fe990742e6",
@@ -71,7 +88,7 @@
       "beaten_by": [
         "xnoo"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "key": "6acc28935c9c0a5a49dd3db1",
@@ -88,7 +105,7 @@
       "beaten_by": [
         "SubmonsterYOY"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "key": "6add6bc32eb523d13e8dff1f",
@@ -103,7 +120,7 @@
         "https://youtu.be/n5QDzBiZ0eE?is=PCj36aWbdQiQue4P"
       ],
       "beaten_by": [],
-      "rank": 6
+      "rank": 7
     },
     {
       "key": "6acc28931ee1f6dbdc8b7f57",
@@ -120,7 +137,7 @@
       "beaten_by": [
         "xnoo"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "key": "6adc685431ba7a85271bf2da",
@@ -138,7 +155,7 @@
         "luhPopoff (Cheerful Desendant)",
         "xnoo"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "key": "6acc2894c28738277b38073c",
@@ -158,7 +175,7 @@
         "TheCone",
         "xnoo"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "key": "6acc2894537b893094331fac",
@@ -175,7 +192,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "key": "6acc289511408a2f77087169",
@@ -194,7 +211,7 @@
         "Smeegan",
         "xnoo"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "key": "6acc2897edb55e41a0581c05",
@@ -213,7 +230,7 @@
         "ErickXd",
         "Smeegan"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "key": "6acc2897e660dc59e42019c6",
@@ -231,7 +248,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "key": "6acc2898babb2f0e067cacd4",
@@ -250,25 +267,6 @@
         "xnoo",
         "luhPopoff (Cheerful Desendant)",
         "ErickXd"
-      ],
-      "rank": 14
-    },
-    {
-      "key": "6acae811be151f426ffffe53",
-      "id": "6acae811be151f426ffffe53",
-      "level_id": 47620786,
-      "title": "Crazy II",
-      "creator": "DavJT",
-      "difficulty": "Insane Demon",
-      "description": "This level is the second level of the Crazy series.",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/CVOsW2cHILc"
-      ],
-      "beaten_by": [
-        "Aarun1217",
-        "SubmonsterYOY",
-        "xnoo"
       ],
       "rank": 15
     }
