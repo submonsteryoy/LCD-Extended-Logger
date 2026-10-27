@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-27T18:22:15.817Z",
+  "generated_at": "2026-10-27T20:29:15.837Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -158,26 +158,6 @@
       "rank": 9
     },
     {
-      "key": "6acc2894c28738277b38073c",
-      "id": "6acc2894c28738277b38073c",
-      "level_id": 60619762,
-      "title": "Denouement",
-      "creator": "Synactive GD",
-      "difficulty": "Insane Demon",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/ziHvsAriE3s?is=blAMh-0TRnwNOVMX"
-      ],
-      "beaten_by": [
-        "Melonnnnnnnn",
-        "randomperson435",
-        "TheCone",
-        "xnoo"
-      ],
-      "rank": 10
-    },
-    {
       "key": "6acc2894537b893094331fac",
       "id": "6acc2894537b893094331fac",
       "level_id": 86565813,
@@ -192,7 +172,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 11
+      "rank": 10
     },
     {
       "key": "6acc289511408a2f77087169",
@@ -211,7 +191,7 @@
         "Smeegan",
         "xnoo"
       ],
-      "rank": 12
+      "rank": 11
     },
     {
       "key": "6acc2897edb55e41a0581c05",
@@ -230,7 +210,7 @@
         "ErickXd",
         "Smeegan"
       ],
-      "rank": 13
+      "rank": 12
     },
     {
       "key": "6acc2897e660dc59e42019c6",
@@ -248,7 +228,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 14
+      "rank": 13
     },
     {
       "key": "6acc2898babb2f0e067cacd4",
@@ -267,6 +247,25 @@
         "xnoo",
         "luhPopoff (Cheerful Desendant)",
         "ErickXd"
+      ],
+      "rank": 14
+    },
+    {
+      "key": "6ae109893415fae2883a843e",
+      "id": "6ae109893415fae2883a843e",
+      "level_id": 47620786,
+      "title": "Crazy II",
+      "creator": "DavJT",
+      "difficulty": "Insane Demon",
+      "description": "This level is the second level of the Crazy series.",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/CVOsW2cHILc"
+      ],
+      "beaten_by": [
+        "Aarun1217",
+        "SubmonsterYOY",
+        "xnoo"
       ],
       "rank": 15
     }
