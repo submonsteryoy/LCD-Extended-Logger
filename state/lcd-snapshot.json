@@ -1,27 +1,9 @@
 {
   "version": 3,
-  "generated_at": "2026-10-28T03:06:23.068Z",
+  "generated_at": "2026-10-28T03:07:12.059Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
-    {
-      "key": "6acc28925e84675138b528a0",
-      "id": "6acc28925e84675138b528a0",
-      "level_id": 73725400,
-      "title": "Crazy III",
-      "creator": "DavJT",
-      "difficulty": "Insane Demon",
-      "description": "\"That's crazy. You know what's crazy too? You even beat Crazy III.\" - Sailent",
-      "image_url": "",
-      "youtube_urls": [
-        "https://www.youtube.com/watch?v=1ynspvn8KSs"
-      ],
-      "beaten_by": [
-        "SubmonsterYOY",
-        "JoZay"
-      ],
-      "rank": 1
-    },
     {
       "key": "6adc32d0fb84edd89ae8c0cd",
       "id": "6adc32d0fb84edd89ae8c0cd",
@@ -37,7 +19,7 @@
       "beaten_by": [
         "Smeegan"
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "key": "6acc28927b38ad426f4a7ff4",
@@ -54,7 +36,7 @@
       "beaten_by": [
         "ErickXd"
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "key": "6acc2891adc443fe990742e6",
@@ -71,7 +53,7 @@
       "beaten_by": [
         "xnoo"
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "key": "6acc28935c9c0a5a49dd3db1",
@@ -88,7 +70,7 @@
       "beaten_by": [
         "SubmonsterYOY"
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "key": "6add6bc32eb523d13e8dff1f",
@@ -103,7 +85,7 @@
         "https://youtu.be/n5QDzBiZ0eE?is=PCj36aWbdQiQue4P"
       ],
       "beaten_by": [],
-      "rank": 6
+      "rank": 5
     },
     {
       "key": "6acc28931ee1f6dbdc8b7f57",
@@ -120,7 +102,7 @@
       "beaten_by": [
         "xnoo"
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "key": "6adc685431ba7a85271bf2da",
@@ -138,7 +120,7 @@
         "xnoo",
         "luhPopoff (Cheerful Desendant)"
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "key": "6acc2894537b893094331fac",
@@ -155,7 +137,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "key": "6acc289511408a2f77087169",
@@ -174,7 +156,7 @@
         "Smeegan",
         "xnoo"
       ],
-      "rank": 10
+      "rank": 9
     },
     {
       "key": "6acc2897edb55e41a0581c05",
@@ -193,7 +175,7 @@
         "ErickXd",
         "Smeegan"
       ],
-      "rank": 11
+      "rank": 10
     },
     {
       "key": "6acc2897e660dc59e42019c6",
@@ -211,7 +193,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 12
+      "rank": 11
     },
     {
       "key": "6acc2898babb2f0e067cacd4",
@@ -231,7 +213,7 @@
         "ErickXd",
         "luhPopoff (Cheerful Desendant)"
       ],
-      "rank": 13
+      "rank": 12
     },
     {
       "key": "6ae109893415fae2883a843e",
@@ -250,7 +232,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 14
+      "rank": 13
     },
     {
       "key": "6ae1668af23804d788c54928",
@@ -263,6 +245,23 @@
       "image_url": "",
       "youtube_urls": [
         "https://youtu.be/I5dkVwV5D9c?is=OcbXNAQb6f1OZd8p"
+      ],
+      "beaten_by": [
+        "xnoo"
+      ],
+      "rank": 14
+    },
+    {
+      "key": "6ae166c759ab06c0141f2921",
+      "id": "6ae166c759ab06c0141f2921",
+      "level_id": 65731116,
+      "title": "64",
+      "creator": "Sillow",
+      "difficulty": "Insane Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/X-PQT8o9-lU?is=FaYsWkgtAPRw8MQO"
       ],
       "beaten_by": [
         "xnoo"
