@@ -1,9 +1,26 @@
 {
   "version": 3,
-  "generated_at": "2026-10-28T03:07:12.059Z",
+  "generated_at": "2026-11-01T07:16:13.751Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
+    {
+      "key": "6acc2891adc443fe990742e6",
+      "id": "6acc2891adc443fe990742e6",
+      "level_id": 14145098,
+      "title": "Invisible Deadlocked",
+      "creator": "KrmaL",
+      "difficulty": "Insane Demon",
+      "description": "hard",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/rjPllZX4FHI?is=FezLBqDkKcb1-Pav"
+      ],
+      "beaten_by": [
+        "xnoo"
+      ],
+      "rank": 1
+    },
     {
       "key": "6adc32d0fb84edd89ae8c0cd",
       "id": "6adc32d0fb84edd89ae8c0cd",
@@ -19,7 +36,7 @@
       "beaten_by": [
         "Smeegan"
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "key": "6acc28927b38ad426f4a7ff4",
@@ -35,23 +52,6 @@
       ],
       "beaten_by": [
         "ErickXd"
-      ],
-      "rank": 2
-    },
-    {
-      "key": "6acc2891adc443fe990742e6",
-      "id": "6acc2891adc443fe990742e6",
-      "level_id": 14145098,
-      "title": "Invisible Deadlocked",
-      "creator": "KrmaL",
-      "difficulty": "Insane Demon",
-      "description": "hard",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/rjPllZX4FHI?is=FezLBqDkKcb1-Pav"
-      ],
-      "beaten_by": [
-        "xnoo"
       ],
       "rank": 3
     },
