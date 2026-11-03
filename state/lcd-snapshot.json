@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-11-03T16:56:15.927Z",
+  "generated_at": "2026-11-03T17:02:25.034Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
@@ -151,13 +151,15 @@
       "description": "Sigma boi",
       "image_url": "",
       "youtube_urls": [
-        "https://youtu.be/63sr55FXqsI?is=K-LcoByaExUxMrIe"
+        "https://youtu.be/63sr55FXqsI?is=K-LcoByaExUxMrIe",
+        "https://youtu.be/3JBLdg-qTok?si=onzo0le7LiHrfJ6Y"
       ],
       "beaten_by": [
         "TheCone",
         "Smeegan",
         "xnoo",
-        "SubmonsterYOY"
+        "SubmonsterYOY",
+        "willy"
       ],
       "rank": 9
     },
