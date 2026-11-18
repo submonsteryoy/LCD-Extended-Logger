@@ -1,9 +1,26 @@
 {
   "version": 3,
-  "generated_at": "2026-11-03T17:02:25.034Z",
+  "generated_at": "2026-11-18T13:53:16.355Z",
   "source": "https://api-lcd.vercel.app/api/extended",
   "list": "Extended",
   "levels": [
+    {
+      "key": "6afdadc7324e790af1b944de",
+      "id": "6afdadc7324e790af1b944de",
+      "level_id": 14145098,
+      "title": "Invisible Deadlocked",
+      "creator": "KrmaL",
+      "difficulty": "Insane Demon",
+      "description": "hard",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/rjPllZX4FHI?is=FezLBqDkKcb1-Pav"
+      ],
+      "beaten_by": [
+        "xnoo"
+      ],
+      "rank": 1
+    },
     {
       "key": "6adc32d0fb84edd89ae8c0cd",
       "id": "6adc32d0fb84edd89ae8c0cd",
@@ -19,7 +36,7 @@
       "beaten_by": [
         "Smeegan"
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "key": "6acc28927b38ad426f4a7ff4",
@@ -36,7 +53,7 @@
       "beaten_by": [
         "ErickXd"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "key": "6acc28935c9c0a5a49dd3db1",
@@ -53,7 +70,7 @@
       "beaten_by": [
         "SubmonsterYOY"
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "key": "6ae6e8f73555de070f91fca8",
@@ -70,7 +87,7 @@
       "beaten_by": [
         "luhPopoff (Cheerful Desendant)"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "key": "6add6bc32eb523d13e8dff1f",
@@ -87,7 +104,7 @@
       "beaten_by": [
         "xnoo"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "key": "6acc28931ee1f6dbdc8b7f57",
@@ -104,7 +121,7 @@
       "beaten_by": [
         "xnoo"
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "key": "6adc685431ba7a85271bf2da",
@@ -122,7 +139,7 @@
         "xnoo",
         "luhPopoff (Cheerful Desendant)"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "key": "6acc2894537b893094331fac",
@@ -139,7 +156,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "key": "6acc289511408a2f77087169",
@@ -161,7 +178,7 @@
         "SubmonsterYOY",
         "willy"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "key": "6acc2897edb55e41a0581c05",
@@ -180,7 +197,7 @@
         "ErickXd",
         "Smeegan"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "key": "6acc2897e660dc59e42019c6",
@@ -198,7 +215,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "key": "6acc2898babb2f0e067cacd4",
@@ -218,7 +235,7 @@
         "ErickXd",
         "luhPopoff (Cheerful Desendant)"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "key": "6ae109893415fae2883a843e",
@@ -237,7 +254,7 @@
         "SubmonsterYOY",
         "xnoo"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "key": "6ae1668af23804d788c54928",
@@ -250,23 +267,6 @@
       "image_url": "",
       "youtube_urls": [
         "https://youtu.be/I5dkVwV5D9c?is=OcbXNAQb6f1OZd8p"
-      ],
-      "beaten_by": [
-        "xnoo"
-      ],
-      "rank": 14
-    },
-    {
-      "key": "6ae166c759ab06c0141f2921",
-      "id": "6ae166c759ab06c0141f2921",
-      "level_id": 65731116,
-      "title": "64",
-      "creator": "Sillow",
-      "difficulty": "Insane Demon",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/X-PQT8o9-lU?is=FaYsWkgtAPRw8MQO"
       ],
       "beaten_by": [
         "xnoo"
